@@ -1,4 +1,4 @@
-# Deneauve — Portfolio
+# Portfolio
 
 Personal portfolio and CV site: about me, past work, articles, and books.
 
